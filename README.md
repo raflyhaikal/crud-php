@@ -1,2 +1,2 @@
-<h2>Simple CRUD PHP<h2>
+#Simple CRUD PHP
 CodeIgniter 3
